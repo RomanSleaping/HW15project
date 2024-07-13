@@ -188,6 +188,7 @@ header li a:hover {
 
 /* team  */
 .team {
+  display: inline-block;
   margin: 0 auto;
   background-color: var(--our-team);
   width: 1600px;
